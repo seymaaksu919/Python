@@ -15,6 +15,6 @@ Proje Açıklaması
 4. Veri eğitim ve test kümelerine bölünerek doğrusal regresyon modeli eğitilir. 
 5. Modelin başarısı Mean Squared Error (MSE) metriği ile değerlendirilir.
 6. 26.5 TL hesap ödeyen bir kadının tahmini bahşiş miktarı ayrıca hesaplanarak analiz edilmiştir. 
-7. Sonuçlar **matplotlib ile grafik olarak görselleştirilmiştir.
+7. Sonuçlar matplotlib ile grafik olarak görselleştirilmiştir.
 
 
